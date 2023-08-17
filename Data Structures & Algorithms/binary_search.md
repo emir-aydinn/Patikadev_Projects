@@ -1,4 +1,4 @@
-# Binary Search
+# Binary Search Tree
 ## Question
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] write the Binary-Search-Tree steps.
 
